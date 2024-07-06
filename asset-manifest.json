@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/art-portfolio-prabh/static/css/main.ebe498eb.css",
+    "main.js": "/art-portfolio-prabh/static/js/main.8ecc4a12.js",
+    "static/media/vegetable house.png": "/art-portfolio-prabh/static/media/vegetable house.7109161549427a7a02f0.png",
+    "static/media/kristien portrait.png": "/art-portfolio-prabh/static/media/kristien portrait.46d0f03cac0129cbecb0.png",
+    "static/media/air character final.png": "/art-portfolio-prabh/static/media/air character final.05200f3c802325c4a4a2.png",
+    "static/media/expression chart.png": "/art-portfolio-prabh/static/media/expression chart.5e6b9563618d48a12b85.png",
+    "static/media/tiger.jpg": "/art-portfolio-prabh/static/media/tiger.44f6239d1ca3a8083c13.jpg",
+    "static/media/concept soldier and farm oy.jpg": "/art-portfolio-prabh/static/media/concept soldier and farm oy.fe4d7ed0bd07eb33f1d0.jpg",
+    "static/media/heroImage.png": "/art-portfolio-prabh/static/media/heroImage.b74b957cba57513fa35d.png",
+    "static/media/resume.pdf": "/art-portfolio-prabh/static/media/resume.46a040dc2f261f19931b.pdf",
+    "index.html": "/art-portfolio-prabh/index.html",
+    "main.ebe498eb.css.map": "/art-portfolio-prabh/static/css/main.ebe498eb.css.map",
+    "main.8ecc4a12.js.map": "/art-portfolio-prabh/static/js/main.8ecc4a12.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ebe498eb.css",
+    "static/js/main.8ecc4a12.js"
+  ]
+}
